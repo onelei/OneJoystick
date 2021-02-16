@@ -1,7 +1,7 @@
 ## ![160x160](./Doc/160x160.png)
 
 [OneJoystick]( https://assetstore.unity.com/packages/slug/189556 
-) OneJoystick is a simple, easy to use and highly customizable virtual joystick.
+) is a simple, easy to use and highly customizable virtual joystick.
 
 ![420x280](./Doc/420x280.png)
 
